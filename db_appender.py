@@ -94,4 +94,4 @@ if __name__ == '__main__':
     db_append()
 
 
-#for a any doubts or assistance conat me at amalmpillai7@gmail.com
+#for a any doubts or assistance contact me at amalmpillai7@gmail.com
